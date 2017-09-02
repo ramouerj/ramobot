@@ -1,0 +1,20 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "Chatbot service for ramobot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramouerj/ramobot.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Lima <folivelima@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "luis-sdk": "^1.0.1"
+  }
+}

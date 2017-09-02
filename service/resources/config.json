@@ -1,0 +1,9 @@
+{
+  "service":{
+    "port":8085,
+    "routs":{
+      "app":"ramobot",
+      "chat":"chat"
+    }
+  }
+}
